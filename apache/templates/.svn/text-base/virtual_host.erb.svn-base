@@ -1,8 +1,0 @@
-<VirtualHost *:80>
-  ServerName <%= server_name %>
-  ServerAlias <%= server_alias %>
-  ServerAdmin <%= server_admin %>
-  DocumentRoot <%= document_root %>
-  ErrorLog logs/<%= server_name %>-error_log
-  CustomLog logs/<%= server_name %>-access_log common
-</VirtualHost>
