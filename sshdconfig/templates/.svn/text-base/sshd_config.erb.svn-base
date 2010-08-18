@@ -1,0 +1,14 @@
+Port <%= sshd_port  %>
+Protocol <%= ssh_protocol %>
+ListenAddress <%= listenaddress %>
+
+SyslogFacility AUTHPRIV
+PermitRootLogin <%= root_login %>
+PasswordAuthentication <%= password_auth %>
+ChallengeResponseAuthentication no
+GSSAPIAuthentication yes
+GSSAPICleanupCredentials yes
+UsePAM yes
+X11Forwarding yes
+Banner /etc/motd
+

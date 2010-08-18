@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/gp/!svn/ver/247/trunk/lib/etc/puppet/modules/dhcp/templates
+END
+dhcpd.conf.erb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/gp/!svn/ver/247/trunk/lib/etc/puppet/modules/dhcp/templates/dhcpd.conf.erb
+END

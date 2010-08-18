@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/gp/!svn/ver/231/trunk/lib/etc/puppet/modules/mysql/templates
+END
+mysqld.erb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/gp/!svn/ver/231/trunk/lib/etc/puppet/modules/mysql/templates/mysqld.erb
+END

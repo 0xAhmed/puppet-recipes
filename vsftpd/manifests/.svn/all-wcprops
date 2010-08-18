@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/gp/!svn/ver/224/trunk/lib/etc/puppet/modules/vsftpd/manifests
+END
+init.pp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/gp/!svn/ver/224/trunk/lib/etc/puppet/modules/vsftpd/manifests/init.pp
+END

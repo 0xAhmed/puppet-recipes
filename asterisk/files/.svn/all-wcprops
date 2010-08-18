@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/gp/!svn/ver/235/trunk/lib/etc/puppet/modules/asterisk/files
+END
+sip.conf
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/gp/!svn/ver/235/trunk/lib/etc/puppet/modules/asterisk/files/sip.conf
+END
+extensions.conf
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/gp/!svn/ver/235/trunk/lib/etc/puppet/modules/asterisk/files/extensions.conf
+END

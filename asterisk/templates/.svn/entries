@@ -1,0 +1,34 @@
+10
+
+dir
+256
+http://code.manhag.org/gp/trunk/lib/etc/puppet/modules/asterisk/templates
+http://code.manhag.org/gp
+
+
+
+2010-07-20T15:20:42.856882Z
+238
+AhmedElGamil
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+d2ebeb6b-ede7-4358-a77a-a2abe7c11942
+
+extensions.d
+dir
+
+sip.d
+dir
+

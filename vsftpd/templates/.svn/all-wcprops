@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/gp/!svn/ver/222/trunk/lib/etc/puppet/modules/vsftpd/templates
+END
+vsftpd.erb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/gp/!svn/ver/222/trunk/lib/etc/puppet/modules/vsftpd/templates/vsftpd.erb
+END
